@@ -1,6 +1,11 @@
 name: example
 description: Example project for StaggeredGridView
 
+
+environment:
+  sdk: ">=1.6.0 <3.0.0"
+
+
 dependencies:
   flutter:
     sdk: flutter
